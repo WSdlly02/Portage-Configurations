@@ -1,0 +1,13 @@
+app-editors/vim
+app-misc/fastfetch
+dev-vcs/git
+media-video/pipewire
+media-video/wireplumber
+media-video/v4l2loopback
+net-dns/avahi
+net-dns/smartdns
+net-firewall/ufw
+net-misc/curl
+net-print/cups-meta
+net-wireless/bluez
+sys-auth/nss-mdns

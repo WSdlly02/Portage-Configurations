@@ -1,0 +1,5 @@
+kde-plasma/plasma-meta plymoth flatpak grub rdp
+media-video/vlc -vaapi
+net-misc/freerdp server
+net-p2p/qbittorrent-enhanced webui
+app-i18n/opencc python

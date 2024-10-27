@@ -1,0 +1,12 @@
+dev-lang/rust profiler
+net-misc/rsync zstd xattr
+net-wireless/wpa_supplicant ap
+net-misc/networkmanager -ppp -wext tools resolvconf connection-sharing
+net-libs/nodejs inspector
+virtual/rust profiler
+sys-apps/systemd -resolvconf
+sys-kernel/installkernel dracut
+sys-kernel/linux-firmware savedconfig compress-zstd
+sys-kernel/xanmod-sources symlink
+sys-kernel/xanmod-kernel -x86-64-v2 x86-64-v3 savedconfig
+sys-boot/grub mount theme

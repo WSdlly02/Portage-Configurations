@@ -1,0 +1,4 @@
+app-misc/navi ~amd64
+sys-apps/amdgpu_top ~amd64
+sys-fs/ncdu ~amd64
+dev-lang/zig ~amd64

@@ -1,0 +1,14 @@
+app-admin/sudo
+net-dns/openresolv
+net-misc/networkmanager
+net-vpn/corkscrew
+net-wireless/iw
+sys-boot/grub
+sys-boot/os-prober
+sys-firmware/sof-firmware
+sys-fs/btrfs-progs
+sys-fs/ntfs3g
+sys-kernel/linux-firmware
+sys-kernel/xanmod-kernel
+#sys-kernel/xanmod-sources
+sys-kernel/modprobed-db

@@ -1,0 +1,41 @@
+# KDE Apps
+kde-plasma/plasma-meta
+kde-plasma/sddm-kcm
+kde-apps/dolphin
+kde-apps/konsole
+kde-apps/kate
+kde-apps/ark
+kde-apps/gwenview
+kde-apps/filelight
+kde-apps/yakuake
+kde-misc/kdeconnect
+kde-misc/wallpaper-engine-kde-plugin
+# Apps
+app-editors/vscode
+app-office/wps-office
+dev-util/vulkan-tools
+x11-apps/mesa-progs
+x11-apps/xlsclients
+media-video/bilibili
+media-video/obs-studio
+net-im/tencent-qq
+net-im/wechat-universal-bwrap
+net-im/telegram-desktop-bin
+net-p2p/qbittorrent-enhanced
+net-p2p/syncthing
+sys-apps/lact
+# IMs
+app-i18n/fcitx
+app-i18n/fcitx-qt
+app-i18n/fcitx-gtk
+app-i18n/fcitx-chinese-addons
+app-dicts/fcitx-pinyin-zhwiki
+app-dicts/fcitx-pinyin-moegirl
+app-i18n/fcitx-configtool
+# Browsers
+www-client/firefox
+www-client/google-chrome
+www-client/microsoft-edge
+mail-client/thunderbird-bin
+# Fonts
+media-fonts/sarasa-gothic

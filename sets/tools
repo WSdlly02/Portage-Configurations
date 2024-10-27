@@ -1,0 +1,22 @@
+# cli and tui apps only
+app-admin/pass
+app-arch/rar
+app-text/tree
+app-shells/fish
+app-misc/navi
+app-misc/tmux
+media-video/libva-utils
+net-analyzer/nmap
+net-dns/bind
+net-misc/iperf
+net-fs/sshfs
+sys-apps/amdgpu_top
+sys-apps/lm-sensors
+sys-apps/usbutils
+sys-apps/ripgrep
+sys-apps/pciutils
+sys-fs/ncdu
+sys-process/btop
+sys-process/htop
+sys-process/lsof
+x11-misc/vdpauinfo

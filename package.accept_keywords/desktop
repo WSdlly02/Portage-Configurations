@@ -1,0 +1,26 @@
+kde-misc/wallpaper-engine-kde-plugin ~amd64
+kde-plasma/sddm-kcm ~amd64
+#
+app-office/wps-office ~amd64
+x11-misc/flatpak-xdg-utils ~amd64
+x11-misc/snapd-xdg-open ~amd64
+media-libs/openslide ~amd64
+media-video/bilibili ~amd64
+media-video/obs-studio ~amd64
+net-im/tencent-qq ~amd64
+net-im/wechat-universal-bwrap ~amd64
+net-im/telegram-desktop-bin ~amd64
+net-p2p/qbittorrent-enhanced ~amd64
+sys-apps/lact ~amd64
+#
+app-i18n/fcitx ~amd64
+app-i18n/fcitx-qt ~amd64
+app-i18n/fcitx-gtk ~amd64
+app-dicts/fcitx-pinyin-zhwiki ~amd64
+app-dicts/fcitx-pinyin-moegirl ~amd64
+dev-python/pypinyin ~amd64
+app-i18n/opencc ~amd64
+dev-python/mw2fcitx ~amd64
+dev-lang/python ~amd64
+#
+media-fonts/sarasa-gothic ~amd64
