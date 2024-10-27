@@ -6,7 +6,9 @@ app-shells/fish
 app-misc/navi
 app-misc/tmux
 media-video/libva-utils
+net-analyzer/bandwhich
 net-analyzer/nmap
+net-analyzer/openbsd-netcat
 net-dns/bind
 net-misc/iperf
 net-fs/sshfs

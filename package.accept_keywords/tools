@@ -1,4 +1,5 @@
 app-misc/navi ~amd64
+net-analyzer/bandwhich ~amd64
 sys-apps/amdgpu_top ~amd64
 sys-fs/ncdu ~amd64
 dev-lang/zig ~amd64
