@@ -7,5 +7,6 @@ app-eselect/eselect-iptables
 app-portage/command-not-found
 app-portage/gentoolkit
 app-portage/portage-utils
+dev-util/ccache
 dev-util/pkgcheck
 dev-util/pkgdev

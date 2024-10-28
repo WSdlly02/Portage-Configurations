@@ -5,11 +5,13 @@ kde-apps/filelight
 kde-apps/gwenview
 kde-apps/kate
 kde-apps/konsole
+kde-apps/spectacle
 kde-apps/yakuake
 kde-misc/kdeconnect
 kde-misc/wallpaper-engine-kde-plugin
 kde-plasma/plasma-meta
 kde-plasma/sddm-kcm
+sys-block/partitionmanager
 # Apps
 app-editors/vscode
 app-office/wps-office

@@ -1,4 +1,3 @@
-dev-lang/rust profiler
 net-libs/nodejs inspector
 net-misc/networkmanager -ppp -wext tools resolvconf connection-sharing
 net-misc/rsync zstd xattr
@@ -7,6 +6,7 @@ sys-apps/systemd -resolvconf
 sys-boot/grub mount theme
 sys-kernel/installkernel dracut
 sys-kernel/linux-firmware savedconfig compress-zstd
-sys-kernel/xanmod-kernel -x86-64-v2 x86-64-v3 savedconfig
-sys-kernel/xanmod-sources symlink
 virtual/rust profiler
+sys-kernel/gentoo-kernel -debug modules-compress savedconfig
+#sys-kernel/xanmod-kernel -x86-64-v2 x86-64-v3 savedconfig
+#sys-kernel/xanmod-sources symlink

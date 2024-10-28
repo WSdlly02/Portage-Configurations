@@ -1,5 +1,5 @@
 dev-libs/nss ~amd64
 net-wireless/iw ~amd64
-sys-kernel/xanmod-kernel ~amd64
+sys-kernel/gentoo-kernel ~amd64
 sys-libs/glibc ~amd64
 virtual/dist-kernel ~amd64
