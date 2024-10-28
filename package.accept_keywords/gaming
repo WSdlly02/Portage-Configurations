@@ -1,5 +1,4 @@
 games-util/mcrcon ~amd64
-games-action/prismlauncher ~amd64
 games-util/mangohud ~amd64
 games-util/gamemode ~amd64
 media-libs/imgui ~amd64
