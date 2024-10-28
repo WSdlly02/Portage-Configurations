@@ -1,1 +1,1 @@
-app-crypt/pinentry -X -gtk ncurses -qt5 -qt6 -wayland
+app-crypt/pinentry -X -gtk -qt5 -qt6 -wayland ncurses
