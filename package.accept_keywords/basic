@@ -1,4 +1,5 @@
-virtual/dist-kernel ~amd64
+dev-libs/nss ~amd64
 net-wireless/iw ~amd64
-sys-libs/glibc ~amd64
 sys-kernel/xanmod-kernel ~amd64
+sys-libs/glibc ~amd64
+virtual/dist-kernel ~amd64

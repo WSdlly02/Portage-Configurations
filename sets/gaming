@@ -1,10 +1,10 @@
-games-action/prismlauncher
-games-util/mcrcon
-games-util/mangohud
-games-util/gamemode
-media-gfx/vkBasalt
-games-strategy/mindustry
 dev-java/openjdk-bin
+games-action/prismlauncher
 #=games-server/fabric-survival-1.20.1.0.16.0
 #=games-server/forge-pvp-1.20.1.47.3.0
 #=games-server/vanilla-survival-1.21.0.16.0
+games-strategy/mindustry
+games-util/gamemode
+games-util/mangohud
+games-util/mcrcon
+media-gfx/vkBasalt

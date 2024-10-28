@@ -2,8 +2,8 @@ app-editors/vim
 app-misc/fastfetch
 dev-vcs/git
 media-video/pipewire
-media-video/wireplumber
 media-video/v4l2loopback
+media-video/wireplumber
 net-dns/avahi
 net-dns/smartdns
 net-firewall/ufw

@@ -1,6 +1,11 @@
 app-admin/eclean-kernel
 app-eselect/eselect-repository
+app-eselect/eselect-java
+app-eselect/eselect-fontconfig
+app-eselect/eselect-pinentry
+app-eselect/eselect-iptables
 app-portage/command-not-found
 app-portage/gentoolkit
 app-portage/portage-utils
+dev-util/pkgcheck
 dev-util/pkgdev

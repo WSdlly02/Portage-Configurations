@@ -9,6 +9,6 @@ sys-firmware/sof-firmware
 sys-fs/btrfs-progs
 sys-fs/ntfs3g
 sys-kernel/linux-firmware
+sys-kernel/modprobed-db
 sys-kernel/xanmod-kernel
 #sys-kernel/xanmod-sources
-sys-kernel/modprobed-db
