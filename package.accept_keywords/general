@@ -1,2 +1,2 @@
-media-video/v4l2loopback ~amd64
+dev-vcs/lazygit ~amd64
 net-dns/smartdns ~amd64

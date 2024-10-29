@@ -1,6 +1,6 @@
 media-video/ffmpeg opus
 media-video/pipewire bluetooth jack-sdk pipewire-alsa sound-server v4l gstreamer
-media-video/v4l2loopback modules-compress
+#media-video/v4l2loopback modules-compress
 net-dns/avahi mdnsresponder-compat
 net-print/cups dbus usb
 net-print/cups-meta pdf

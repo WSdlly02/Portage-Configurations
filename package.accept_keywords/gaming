@@ -6,6 +6,8 @@ games-util/game-device-udev-rules ~amd64
 games-util/gamemode ~amd64
 games-util/mangohud ~amd64
 games-util/mcrcon ~amd64
+games-util/steam-launcher ~amd64
+games-util/game-device-udev-rules ~amd64
 games-util/ProtonUp-Qt ~amd64
 games-util/steam-launcher ~amd64
 media-fonts/lato ~amd64
