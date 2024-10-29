@@ -12,5 +12,6 @@ sys-fs/ntfs3g
 sys-kernel/linux-firmware
 sys-kernel/modprobed-db
 sys-kernel/gentoo-kernel
+#sys-kernel/gentoo-kernel-bin
 #sys-kernel/xanmod-kernel
 #sys-kernel/xanmod-sources

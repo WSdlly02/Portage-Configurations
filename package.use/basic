@@ -8,5 +8,6 @@ sys-kernel/installkernel dracut
 sys-kernel/linux-firmware savedconfig compress-zstd
 virtual/rust profiler
 sys-kernel/gentoo-kernel -debug modules-compress savedconfig
+#sys-kernel/gentoo-kernel-bin modules-compress
 #sys-kernel/xanmod-kernel -x86-64-v2 x86-64-v3 savedconfig
 #sys-kernel/xanmod-sources symlink
