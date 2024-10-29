@@ -20,6 +20,7 @@ mail-client/thunderbird-bin
 media-fonts/sarasa-gothic # Font
 media-video/bilibili
 media-video/obs-studio
+media-video/vlc
 net-im/telegram-desktop-bin
 net-im/tencent-qq
 net-im/wechat-universal-bwrap
