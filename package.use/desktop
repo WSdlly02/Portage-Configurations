@@ -1,4 +1,5 @@
 app-i18n/opencc python
+dev-util/vulkan-tools cube
 kde-plasma/plasma-meta plymoth flatpak grub rdp
 media-libs/vulkan-loader layers
 media-video/vlc -vaapi
