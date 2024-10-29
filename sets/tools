@@ -12,6 +12,7 @@ net-analyzer/nmap
 net-analyzer/openbsd-netcat
 net-dns/bind
 net-fs/sshfs
+net-misc/aria2
 net-misc/iperf
 sys-apps/amdgpu_top
 sys-apps/fd

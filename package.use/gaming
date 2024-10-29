@@ -1,6 +1,7 @@
 dev-python/pyside6 designer
 dev-qt/qttools designer
 games-util/mangohud mangoapp mangohudctl
+media-libs/mesa vulkan-overlay
 media-libs/imgui glfw
 #
 app-arch/bzip2  abi_x86_32
