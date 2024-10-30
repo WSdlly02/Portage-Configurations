@@ -1,13 +1,12 @@
 net-libs/nodejs inspector
 net-misc/networkmanager -ppp -wext tools resolvconf connection-sharing
-net-misc/rsync zstd xattr
 net-wireless/wpa_supplicant ap
 sys-apps/systemd -resolvconf
 sys-boot/grub mount theme
 sys-kernel/installkernel dracut
-sys-kernel/linux-firmware savedconfig compress-zstd
+sys-kernel/linux-firmware
 virtual/rust profiler
-sys-kernel/gentoo-kernel -debug modules-compress savedconfig
-#sys-kernel/gentoo-kernel-bin modules-compress
-#sys-kernel/xanmod-kernel -x86-64-v2 x86-64-v3 savedconfig
+sys-kernel/gentoo-kernel -debug
+#sys-kernel/gentoo-kernel-bin
+#sys-kernel/xanmod-kernel -x86-64-v2 x86-64-v3
 #sys-kernel/xanmod-sources symlink

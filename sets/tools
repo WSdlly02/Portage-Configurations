@@ -1,4 +1,5 @@
 # cli and tui apps only
+# gawk, sed, tar, and etc. have been pulled in by @system
 app-admin/pass
 app-arch/rar
 app-crypt/gnupg
