@@ -5,7 +5,6 @@ dev-vcs/git-lfs
 dev-vcs/lazygit
 media-video/pipewire
 #media-video/v4l2loopback
-media-video/wireplumber
 net-dns/avahi
 net-dns/smartdns
 net-firewall/ufw

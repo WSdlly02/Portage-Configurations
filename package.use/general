@@ -1,8 +1,7 @@
 media-video/ffmpeg opus
-media-video/pipewire bluetooth jack-sdk pipewire-alsa sound-server v4l gstreamer
+media-video/pipewire gstreamer jack-sdk pipewire-alsa sound-server v4l extra
 net-dns/avahi mdnsresponder-compat
-net-print/cups dbus usb
 net-print/cups-meta pdf
-net-print/gutenprint cups ppds
-net-print/libcupsfilters pdf jpeg png
-net-wireless/bluez cups experimental
+net-print/gutenprint ppds
+net-print/libcupsfilters jpeg pdf png
+net-wireless/bluez experimental

@@ -1,5 +1,4 @@
 app-admin/sudo
-net-dns/openresolv
 net-misc/networkmanager
 net-vpn/corkscrew
 net-wireless/iw
