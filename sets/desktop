@@ -24,6 +24,7 @@ media-video/vlc
 net-im/telegram-desktop-bin
 net-im/tencent-qq
 net-im/wechat-universal-bwrap
+net-im/wemeet
 net-p2p/qbittorrent-enhanced
 net-p2p/syncthing
 sys-apps/lact
