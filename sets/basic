@@ -4,7 +4,7 @@ net-vpn/corkscrew
 net-wireless/iw
 sys-boot/grub
 sys-boot/os-prober
-sys-firmware/sof-firmware
+#sys-firmware/sof-firmware
 sys-fs/btrfs-progs
 sys-fs/genfstab
 sys-fs/ntfs3g

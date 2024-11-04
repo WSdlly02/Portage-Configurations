@@ -14,6 +14,7 @@ kde-plasma/sddm-kcm
 sys-block/partitionmanager
 # Apps
 app-editors/vscode
+app-mobilephone/scrcpy
 app-office/wps-office
 dev-util/vulkan-tools
 mail-client/thunderbird-bin
