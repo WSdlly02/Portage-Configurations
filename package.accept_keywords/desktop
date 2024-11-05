@@ -22,6 +22,5 @@ sys-apps/lact ~amd64
 app-dicts/fcitx-pinyin-moegirl ~amd64
 app-dicts/fcitx-pinyin-zhwiki ~amd64
 app-i18n/opencc ~amd64
-dev-lang/python ~amd64
 dev-python/mw2fcitx ~amd64
 dev-python/pypinyin ~amd64
