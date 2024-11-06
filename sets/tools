@@ -24,6 +24,7 @@ sys-apps/pciutils
 sys-apps/ripgrep
 sys-apps/usbutils
 sys-fs/ncdu
+sys-fs/squashfs-tools
 sys-process/btop
 sys-process/htop
 sys-process/lsof
