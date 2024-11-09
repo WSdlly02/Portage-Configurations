@@ -14,6 +14,7 @@ kde-plasma/sddm-kcm
 sys-block/partitionmanager
 # Apps
 app-editors/vscode
+app-misc/wayland-utils
 app-mobilephone/scrcpy
 app-office/wps-office
 dev-util/vulkan-tools
@@ -33,6 +34,7 @@ www-client/firefox
 www-client/google-chrome
 www-client/microsoft-edge
 x11-apps/mesa-progs
+x11-apps/xdpyinfo
 x11-apps/xlsclients
 # IMs
 app-dicts/fcitx-pinyin-moegirl

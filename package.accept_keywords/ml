@@ -1,0 +1,6 @@
+dev-libs/rocm-comgr ~amd64
+dev-libs/rocm-opencl-runtime ~amd64
+dev-util/hip ~amd64
+dev-util/hipcc ~amd64
+dev-util/rocm-smi ~amd64
+dev-util/rocminfo ~amd64

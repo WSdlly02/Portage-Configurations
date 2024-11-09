@@ -8,6 +8,7 @@ app-misc/tmux
 app-shells/fish
 app-text/tree
 dev-util/android-tools
+dev-util/clinfo
 media-video/libva-utils
 net-analyzer/bandwhich
 net-analyzer/nmap

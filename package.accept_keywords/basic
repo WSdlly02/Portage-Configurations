@@ -1,3 +1,4 @@
 dev-libs/nss ~amd64
 sys-kernel/gentoo-kernel ~amd64
+sys-kernel/gentoo-sources ~amd64
 virtual/dist-kernel ~amd64

@@ -1,0 +1,4 @@
+dev-libs/rocm-opencl-runtime
+dev-util/hip
+dev-util/rocm-smi
+dev-util/rocminfo
