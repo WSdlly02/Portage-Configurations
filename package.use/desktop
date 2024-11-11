@@ -2,7 +2,7 @@ app-i18n/opencc python
 dev-util/vulkan-tools cube
 kde-plasma/plasma-meta plymouth grub rdp
 kde-plasma/powerdevil brightness-control
-media-libs/mesa -opencl
+media-libs/mesa -opencl lm-sensors
 media-libs/vulkan-loader layers
 media-video/vlc -vaapi
 net-misc/freerdp server

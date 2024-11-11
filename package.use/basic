@@ -1,3 +1,4 @@
+dev-libs/libbytesize python
 net-libs/nodejs inspector
 net-misc/networkmanager -resolvconf -ppp -wext connection-sharing tools
 net-wireless/wpa_supplicant ap p2p
