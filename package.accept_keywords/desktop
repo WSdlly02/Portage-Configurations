@@ -13,9 +13,11 @@ net-im/tencent-qq ~amd64
 net-im/wechat-universal-bwrap ~amd64
 net-im/wemeet ~amd64
 net-p2p/qbittorrent-enhanced ~amd64
+net-proxy/clash-for-windows-bin ~amd64
 www-client/firefox ~amd64
 www-client/google-chrome ~amd64
 www-client/microsoft-edge ~amd64
+www-misc/profile-sync-daemon ~amd64
 sys-apps/lact ~amd64
 #
 app-dicts/fcitx-pinyin-moegirl ~amd64
