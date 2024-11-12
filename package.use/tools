@@ -1,3 +1,4 @@
 app-crypt/pinentry -X -gtk -qt5 -qt6 -wayland
+app-misc/fastfetch ddcutil drm
 sys-apps/lm-sensors abi_x86_32
 sys-process/htop lm-sensors

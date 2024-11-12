@@ -3,6 +3,7 @@
 app-admin/pass
 app-arch/rar
 app-crypt/gnupg
+app-misc/fastfetch
 app-misc/navi
 app-misc/tmux
 app-shells/fish
