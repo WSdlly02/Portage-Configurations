@@ -6,6 +6,8 @@ x11-misc/flatpak-xdg-utils ~amd64
 x11-misc/snapd-xdg-open ~amd64
 media-fonts/sarasa-gothic ~amd64
 media-libs/openslide ~amd64
+media-sound/go-musicfox ~amd64
+media-sound/helvum ~amd64
 media-video/bilibili ~amd64
 media-video/obs-studio ~amd64
 net-im/telegram-desktop-bin ~amd64

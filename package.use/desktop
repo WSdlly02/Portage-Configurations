@@ -1,4 +1,3 @@
-app-i18n/opencc python
 dev-util/vulkan-tools cube
 kde-plasma/plasma-meta plymouth grub
 kde-plasma/powerdevil brightness-control
@@ -7,4 +6,4 @@ media-libs/vulkan-loader layers
 media-video/vlc -vaapi
 net-misc/freerdp server
 net-p2p/qbittorrent-enhanced webui
-www-client/firefox -pgo
+www-client/firefox clang
