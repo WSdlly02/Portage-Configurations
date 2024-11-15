@@ -9,7 +9,6 @@ net-firewall/ufw
 net-misc/curl
 net-misc/proxychains
 net-print/cups-meta
-net-vpn/corkscrew
 net-wireless/bluez
 sys-auth/nss-mdns
 sys-fs/btrfsmaintenance
