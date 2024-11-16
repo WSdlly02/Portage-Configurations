@@ -1,5 +1,5 @@
 media-video/ffmpeg opus
-media-video/pipewire extra gstreamer jack-sdk pipewire-alsa sound-server
+media-video/pipewire extra gstreamer jack-sdk pipewire-alsa roc sound-server
 net-dns/avahi mdnsresponder-compat
 net-print/cups-meta pdf
 net-print/gutenprint ppds
