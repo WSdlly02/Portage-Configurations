@@ -3,6 +3,7 @@ dev-vcs/git
 dev-vcs/git-lfs
 dev-vcs/lazygit
 media-video/pipewire
+media-video/v4l2loopback
 net-dns/avahi
 net-dns/smartdns
 net-firewall/ufw
