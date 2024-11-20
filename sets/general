@@ -11,5 +11,6 @@ net-misc/curl
 net-misc/proxychains
 net-print/cups-meta
 net-wireless/bluez
+net-vpn/wireguard-tools
 sys-auth/nss-mdns
 sys-fs/btrfsmaintenance
