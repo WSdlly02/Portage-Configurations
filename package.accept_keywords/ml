@@ -1,5 +1,9 @@
+dev-build/rocm-cmake ~amd64
 dev-libs/rocm-comgr ~amd64
+dev-libs/rocm-device-libs ~amd64
 dev-libs/rocm-opencl-runtime ~amd64
+dev-libs/rocr-runtime ~amd64
+dev-libs/roct-thunk-interface ~amd64
 dev-util/hip ~amd64
 dev-util/hipcc ~amd64
 dev-util/rocm-smi ~amd64
