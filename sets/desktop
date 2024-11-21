@@ -11,6 +11,7 @@ kde-misc/kdeconnect
 kde-misc/wallpaper-engine-kde-plugin
 kde-plasma/plasma-meta
 kde-plasma/sddm-kcm
+media-sound/elisa
 sys-block/partitionmanager
 # Apps
 app-editors/vscode
