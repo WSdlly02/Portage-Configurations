@@ -1,6 +1,6 @@
 media-video/ffmpeg opus
 media-video/pipewire extra gstreamer jack-sdk pipewire-alsa roc sound-server
-net-dns/avahi mdnsresponder-compat
+net-dns/avahi -gtk mdnsresponder-compat
 net-print/cups-meta pdf
 net-print/gutenprint ppds
 net-print/libcupsfilters jpeg pdf png

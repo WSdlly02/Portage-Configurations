@@ -1,3 +1,4 @@
+app-emulation/protontricks ~amd64
 dev-java/openjdk-bin ~amd64
 dev-libs/spdlog ~amd64
 games-strategy/mindustry ~amd64
