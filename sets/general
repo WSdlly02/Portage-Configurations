@@ -10,6 +10,7 @@ net-firewall/ufw
 net-misc/curl
 net-misc/proxychains
 net-print/cups-meta
+net-proxy/mihomo
 net-wireless/bluez
 net-vpn/wireguard-tools
 sys-auth/nss-mdns

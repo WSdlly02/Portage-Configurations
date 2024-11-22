@@ -1,3 +1,4 @@
 dev-vcs/lazygit ~amd64
 media-video/v4l2loopback ~amd64
+net-proxy/mihomo ~amd64
 net-dns/smartdns ~amd64
