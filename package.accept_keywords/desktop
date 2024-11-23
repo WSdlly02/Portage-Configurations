@@ -2,8 +2,6 @@ kde-misc/wallpaper-engine-kde-plugin ~amd64
 #
 app-mobilephone/scrcpy ~amd64
 app-office/wps-office ~amd64
-x11-misc/flatpak-xdg-utils ~amd64
-x11-misc/snapd-xdg-open ~amd64
 media-fonts/sarasa-gothic ~amd64
 media-libs/openslide ~amd64
 media-sound/go-musicfox ~amd64
@@ -16,9 +14,11 @@ net-im/wechat-universal-bwrap ~amd64
 net-im/wemeet ~amd64
 net-p2p/qbittorrent-enhanced ~amd64
 net-proxy/clash-for-windows-bin ~amd64
+sys-apps/lact ~amd64
 www-client/firefox ~amd64
 www-misc/profile-sync-daemon ~amd64
-sys-apps/lact ~amd64
+x11-misc/flatpak-xdg-utils ~amd64
+x11-misc/snapd-xdg-open ~amd64
 #
 app-dicts/fcitx-pinyin-moegirl ~amd64
 app-dicts/fcitx-pinyin-zhwiki ~amd64

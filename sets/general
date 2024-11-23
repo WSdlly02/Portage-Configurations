@@ -6,7 +6,7 @@ media-video/pipewire
 media-video/v4l2loopback
 net-dns/avahi
 net-dns/smartdns
-net-firewall/ufw
+net-firewall/firewalld
 net-misc/curl
 net-misc/proxychains
 net-print/cups-meta
