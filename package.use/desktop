@@ -1,7 +1,8 @@
+# KDE Apps
 kde-plasma/plasma-firewall -ufw firewalld
 kde-plasma/plasma-meta plymouth grub
 kde-plasma/powerdevil brightness-control
-#
+# Apps
 dev-util/vulkan-tools cube
 media-libs/mesa -opencl lm-sensors
 media-libs/vulkan-loader layers
@@ -9,3 +10,5 @@ media-video/vlc -vaapi
 net-misc/freerdp server
 net-p2p/qbittorrent-enhanced webui
 www-client/firefox clang
+# IMs
+app-i18n/fcitx-configtool kcm
