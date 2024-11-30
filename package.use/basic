@@ -1,6 +1,7 @@
 net-libs/nodejs inspector
 net-misc/networkmanager -resolvconf -ppp -wext connection-sharing
 net-wireless/wpa_supplicant ap p2p
+sys-apps/fwupd amdgpu fastboot gnutls nvme uefi
 sys-apps/kmod pkcs7
 sys-boot/grub mount theme
 sys-devel/binutils gold
