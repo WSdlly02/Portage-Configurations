@@ -1,4 +1,5 @@
 app-misc/navi ~amd64
+app-misc/tty-clock ~amd64
 dev-lang/zig-bin ~amd64
 dev-util/clinfo ~amd64
 net-analyzer/bandwhich ~amd64

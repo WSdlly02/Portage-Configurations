@@ -1,5 +1,6 @@
 app-crypt/pinentry -X -gtk -qt5 -qt6 -wayland
 app-misc/fastfetch ddcutil drm
 net-misc/aria2 bittorrent
+sys-apps/fwupd amdgpu fastboot gnutls nvme uefi
 sys-apps/lm-sensors abi_x86_32 # due to mesa
 sys-process/htop lm-sensors

@@ -6,6 +6,7 @@ app-crypt/gnupg
 app-misc/fastfetch
 app-misc/navi
 app-misc/tmux
+app-misc/tty-clock
 app-shells/fish
 app-text/tree
 dev-util/android-tools
@@ -20,6 +21,7 @@ net-misc/aria2
 net-misc/iperf
 sys-apps/amdgpu_top
 sys-apps/fd
+sys-apps/fwupd
 sys-apps/lm-sensors
 sys-apps/nvme-cli
 sys-apps/pciutils

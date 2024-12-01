@@ -1,7 +1,6 @@
 app-admin/sudo
 net-misc/networkmanager
 net-wireless/iw
-sys-apps/fwupd
 sys-boot/grub
 sys-boot/mokutil
 sys-boot/os-prober
