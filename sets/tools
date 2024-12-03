@@ -29,6 +29,7 @@ sys-apps/ripgrep
 sys-apps/usbutils
 sys-fs/ncdu
 sys-fs/squashfs-tools
+sys-power/cpupower
 sys-process/btop
 sys-process/htop
 sys-process/lsof
