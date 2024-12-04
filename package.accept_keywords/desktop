@@ -1,6 +1,7 @@
 kde-misc/wallpaper-engine-kde-plugin ~amd64
 #
 app-mobilephone/scrcpy ~amd64
+app-office/obsidian ~amd64
 app-office/wps-office ~amd64
 media-fonts/sarasa-gothic ~amd64
 media-libs/openslide ~amd64

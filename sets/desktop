@@ -17,11 +17,11 @@ sys-block/partitionmanager
 app-editors/vscode
 app-misc/wayland-utils
 app-mobilephone/scrcpy
+app-office/obsidian
 app-office/wps-office
 dev-util/vulkan-tools
 mail-client/thunderbird-bin
 media-fonts/sarasa-gothic # Font
-media-gfx/blender
 media-sound/go-musicfox
 media-sound/helvum
 media-video/bilibili

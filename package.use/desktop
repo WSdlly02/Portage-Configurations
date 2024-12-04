@@ -1,13 +1,9 @@
 # KDE Apps
 kde-plasma/plasma-firewall -ufw firewalld
-kde-plasma/plasma-meta plymouth grub
+kde-plasma/plasma-meta grub plymouth
 kde-plasma/powerdevil brightness-control
 # Apps
-app-arch/brotli abi_x86_32
 dev-util/vulkan-tools cube
-media-libs/freetype brotli
-media-libs/libtheora abi_x86_32
-media-libs/libvpx postproc abi_x86_32
 media-libs/mesa -opencl lm-sensors
 media-libs/vulkan-loader layers
 media-video/vlc -vaapi
