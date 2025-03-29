@@ -1,0 +1,13 @@
+[Unit]
+Description=Socket bind to fabric-survival
+
+[Socket]
+ListenFIFO=/run/fabric-survival.stdin
+SocketMode=0660
+SocketUser=minecraft
+SocketGroup=minecraft
+RemoveOnStop=true
+FlushPending=true
+
+[Install]
+WantedBy=

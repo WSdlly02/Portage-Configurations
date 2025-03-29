@@ -1,0 +1,6 @@
+[Timer]
+OnUnitActiveSec=60s
+Unit=stop-fabric-survival.service
+
+[Install]
+WantedBy=

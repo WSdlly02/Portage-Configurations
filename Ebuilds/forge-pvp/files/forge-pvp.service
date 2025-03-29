@@ -1,0 +1,38 @@
+[Unit]
+Description=forge-pvp server
+Requires=network-online.target forge-pvp.socket
+Conflicts=fabric-survival.service vanilla-survival.service
+
+[Service]
+User=minecraft
+Group=minecraft
+WorkingDirectory=/srv/forge-pvp
+ExecStartPre=!/bin/chown -R minecraft:minecraft /srv/forge-pvp
+ExecStart=/srv/forge-pvp/run.sh nogui
+ExecStop=/usr/libexec/forge-pvp/execstop-forge-pvp $MAINPID
+
+StandardInput=socket
+StandardOutput=journal
+StandardError=journal
+
+LockPersonality=true
+PrivateDevices=true
+PrivateTmp=true
+PrivateUsers=true
+ProtectClock=true
+ProtectControlGroups=true
+ProtectHome=true
+ProtectHostname=true
+ProtectKernelLogs=true
+ProtectKernelModules=true
+ProtectKernelTunables=true
+ProtectProc=invisible
+RestrictAddressFamilies=AF_INET AF_INET6
+RestrictNamespaces = true
+RestrictRealtime=true
+RestrictSUIDSGID=true
+SystemCallArchitectures=native
+UMask=0077
+
+[Install]
+WantedBy=

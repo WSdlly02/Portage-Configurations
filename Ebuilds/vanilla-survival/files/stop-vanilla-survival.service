@@ -1,0 +1,12 @@
+[Unit]
+Description=Stop vanilla-survival server
+After=network-online.target stop-vanilla-survival.timer
+Requires=stop-vanilla-survival.timer
+Conflicts=stop-fabric-survival.service stop-forge-pvp.service
+
+[Service]
+Type=oneshot
+ExecStart=/usr/libexec/vanilla-survival/stop-vanilla-survival
+
+[Install]
+WantedBy=

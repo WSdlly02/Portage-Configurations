@@ -1,0 +1,12 @@
+[Unit]
+Description=Detect the port and start forge-pvp
+After=listen-forge-pvp.socket
+
+[Service]
+ExecStart=/usr/bin/systemctl stop listen-fabric-survival.socket listen-forge-pvp.socket listen-vanilla-survival.socket
+ExecStartPost=/usr/bin/systemctl start forge-pvp.service
+ExecStartPost=/usr/bin/sleep 20s
+ExecStartPost=/usr/bin/systemctl start stop-forge-pvp.service
+
+[Install]
+WantedBy=

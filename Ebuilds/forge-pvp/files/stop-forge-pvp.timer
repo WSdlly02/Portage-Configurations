@@ -1,0 +1,6 @@
+[Timer]
+OnUnitActiveSec=60s
+Unit=stop-forge-pvp.service
+
+[Install]
+WantedBy=

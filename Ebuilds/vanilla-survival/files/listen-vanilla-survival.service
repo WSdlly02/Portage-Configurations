@@ -1,0 +1,12 @@
+[Unit]
+Description=Detect the port and start vanilla-survival
+After=listen-vanilla-survival.socket
+
+[Service]
+ExecStart=/usr/bin/systemctl stop listen-fabric-survival.socket listen-forge-pvp.socket listen-vanilla-survival.socket
+ExecStartPost=/usr/bin/systemctl start vanilla-survival.service
+ExecStartPost=/usr/bin/sleep 20s
+ExecStartPost=/usr/bin/systemctl start stop-vanilla-survival.service
+
+[Install]
+WantedBy=

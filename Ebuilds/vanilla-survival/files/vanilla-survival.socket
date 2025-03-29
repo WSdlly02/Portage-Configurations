@@ -1,0 +1,13 @@
+[Unit]
+Description=Socket bind to vanilla-survival
+
+[Socket]
+ListenFIFO=/run/vanilla-survival.stdin
+SocketMode=0660
+SocketUser=minecraft
+SocketGroup=minecraft
+RemoveOnStop=true
+FlushPending=true
+
+[Install]
+WantedBy=

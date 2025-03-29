@@ -1,0 +1,8 @@
+[Unit]
+Description=Listen the choosing port of vanilla-survival
+
+[Socket]
+ListenStream=11028
+
+[Install]
+WantedBy=multi-user.target

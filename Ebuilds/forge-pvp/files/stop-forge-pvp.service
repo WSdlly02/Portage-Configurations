@@ -1,0 +1,12 @@
+[Unit]
+Description=Stop forge-pvp server
+After=network-online.target stop-forge-pvp.timer
+Requires=stop-forge-pvp.timer
+Conflicts=stop-fabric-survival.service stop-vanilla-survival.service
+
+[Service]
+Type=oneshot
+ExecStart=/usr/libexec/forge-pvp/stop-forge-pvp
+
+[Install]
+WantedBy=

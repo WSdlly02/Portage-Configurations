@@ -1,0 +1,6 @@
+[Timer]
+OnUnitActiveSec=60s
+Unit=stop-vanilla-survival.service
+
+[Install]
+WantedBy=

@@ -1,0 +1,8 @@
+[Unit]
+Description=Listen the choosing port of fabric-survival
+
+[Socket]
+ListenStream=11024
+
+[Install]
+WantedBy=multi-user.target

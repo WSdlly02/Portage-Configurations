@@ -1,0 +1,7 @@
+#!/bin/bash
+echo stop > /run/forge-pvp.stdin
+# Wait for the PID of the minecraft server to disappear before
+# returning, so systemd doesn't attempt to SIGKILL it.
+while kill -0 "$1" 2> /dev/null; do
+ sleep 1s
+done

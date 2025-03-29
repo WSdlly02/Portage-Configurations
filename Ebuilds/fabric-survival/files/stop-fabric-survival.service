@@ -1,0 +1,12 @@
+[Unit]
+Description=Stop fabric-survival server
+After=network-online.target stop-fabric-survival.timer
+Requires=stop-fabric-survival.timer
+Conflicts=stop-forge-pvp.service stop-vanilla-survival.service
+
+[Service]
+Type=oneshot
+ExecStart=/usr/libexec/fabric-survival/stop-fabric-survival
+
+[Install]
+WantedBy=
